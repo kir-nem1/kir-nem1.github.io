@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Ruth Wood",
+    "contacts": [
+      "test",
+      "test",
+      "facebook/sdfsdf"
+    ],
+    "profilePicture": "./assets/images/team-1.jpg"
+  },
+  {
+    "name": "Timothy Reed",
+    "contacts": [
+      "test",
+      "test",
+      "facebook/sdfsdf"
+    ],
+    "profilePicture": "./assets/images/team-2.jpg"
+  },
+  {
+    "name": "Victoria Valdez",
+    "contacts": [
+      "test",
+      "test",
+      "facebook/sdfsdf"
+    ],
+    "profilePicture": "./assets/images/team-3.jpg"
+  },
+  {
+    "name": "Beverly Little",
+    "contacts": [
+      "test",
+      "test",
+      "facebook/sdfsdf"
+    ],
+    "profilePicture": "./assets/images/team-4.jpg"
+  }
+]
